@@ -1,5 +1,6 @@
-Figure 7f, Regulon activities of PITX3 in GBM and KLF6 in PDAC are shown
-across normal (green), primary (blue), and metastasis (red) cells
+Figure 7h, Regulon activity of KLF4 in HPV-positive and HPV-negative
+HNSCC, both in this study (upper panel) and in TCGA dataset (lower
+panel)
 ================
 
 # 0. Load library
