@@ -5,3 +5,5 @@
 **Directory structure**
 
 * `Cancer_tissue_DACRs` -- calculating tissue- and cancer-specific DACRs.
+
+* `Cancer_tissue_DEGs` -- calculating tissue- and cancer-specific DEGs.

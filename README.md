@@ -19,3 +19,9 @@ This is a repo for the publication "Epigenetic Programs Drive Cancer Transitions
 
 
 * Fig5: Transcriptional programs activated in cancer metastasis.
+
+
+* Fig6: Trajectory inference uncovers epigenetic programs driving cancer metastasis.
+
+
+* Fig7: Genetic drivers impact on chromatin accessibility.
