@@ -1709,7 +1709,7 @@ for (TF in TF_list) {
 print(p1)
 ```
 
-![](7f_files/figure-gfm/unnamed-chunk-3-1.png)<!-- -->
+![](7f_regulon_activity_density_files/figure-gfm/unnamed-chunk-3-1.png)<!-- -->
 
 ``` r
 #save figure to pdf
@@ -1762,7 +1762,7 @@ for (TF in TF_list) {
 print(p2)
 ```
 
-![](7f_files/figure-gfm/unnamed-chunk-3-2.png)<!-- -->
+![](7f_regulon_activity_density_files/figure-gfm/unnamed-chunk-3-2.png)<!-- -->
 
 ``` r
 #save figure to pdf
