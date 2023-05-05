@@ -126,5 +126,5 @@ da_peaks$peak=rownames(da_peaks)
 
 all_da_peaks=as.data.frame(all_da_peaks)
 
-write.table(all_da_peaks,paste("out/TumorNormal.DACRs.pct.0.01.logFC.tsv",sep=""),
+write.table(all_da_peaks,paste("out/TumorNormal.DACRs.pct.0.05.logFC.0.tsv",sep=""),
 quote=FALSE,sep="\t",row.names=FALSE)
