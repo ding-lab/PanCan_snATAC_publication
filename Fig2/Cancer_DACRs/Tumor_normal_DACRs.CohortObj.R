@@ -30,7 +30,6 @@ met_samples=s_sampl[s_sampl$Sample.Typ=='Met',]
 cancers_s=c('ccRCC','PDAC','UCEC','CRC','BRCA','BRCA_Basal','GBM','MM','SKCM','CESC')
 
 
-cancers_s=c('CESC','PDAC')
 for (can in cancers_s){
 
 if(can %in% c('BRCA','BRCA_Basal')){
