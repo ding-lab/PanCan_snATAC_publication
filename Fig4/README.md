@@ -4,10 +4,13 @@
 
 **Directory structure**
 
-* `Run_SCENIC` -- infer regulons using SCENIC
+* `Run_SCENIC` -- inferring regulons using SCENIC
 
 
-* `Post_SCENIC` -- scripts for updating regulons based on frequency across iterations; and for identifying differential regulons: each cancer vs others (tumor cells only), and tumor cells vs CNC.
+* `Post_SCENIC` -- scripts for updating regulons based on frequency across iterations; and for identifying differential regulons: each cancer vs others (tumor cells only), and each tumor vs CNC.
+
+
+* `Diff_TFs_ATAC_based` -- identifying differential TFs: each cancer vs others (tumor cells only), and each tumor vs CNC.
 
 
 * `ENCODE_4f-g` -- validation of regulons' targets using ChIP-seq data (ENCODE).
