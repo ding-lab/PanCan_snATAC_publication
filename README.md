@@ -1,6 +1,6 @@
 # PanCan_snATAC_publication
 
-This is a repo for the publication "Epigenetic Programs Drive Cancer Transitions Across 11 Tumor Types"
+This is a repo for the publication "Epigenetic Regulations During Cancer Transitions Across 11 Tumor Types"
 
 ---
 
@@ -25,3 +25,5 @@ This is a repo for the publication "Epigenetic Programs Drive Cancer Transitions
 
 
 * Fig7: Genetic drivers impact on chromatin accessibility.
+  
+Use Sample_ID_Lookup_table.xlsx to find data on HTAN DCC, GDC and CDS
