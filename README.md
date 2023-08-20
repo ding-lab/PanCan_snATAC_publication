@@ -1,6 +1,6 @@
 # PanCan_snATAC_publication
 
-This is a repo for the publication "Epigenetic Regulations During Cancer Transitions Across 11 Tumor Types"
+This is a repo for the publication "Epigenetic Regulation During Cancer Transitions Across 11 Tumor Types"
 
 ---
 
@@ -9,21 +9,15 @@ This is a repo for the publication "Epigenetic Regulations During Cancer Transit
 * Fig1: Overview of chromatin accessibility pattern across 11 cancer types.
 
 
-* Fig2: Cancer type-specific epigenomic drivers.
+* Fig2: CREs regulating transcriptional programs in cancer.
 
 
-* Fig3: Enhancers/promoters regulating transcriptional programs in cancer.
+* Fig3: Pan-Cancer and cancer-specific regulons.
 
 
-* Fig4: Pan-Cancer and cancer-specific regulons.
+* Fig4: Transcriptional programs activated in cancer metastasis.
 
 
-* Fig5: Transcriptional programs activated in cancer metastasis.
-
-
-* Fig6: Trajectory inference uncovers epigenetic programs driving cancer metastasis.
-
-
-* Fig7: Genetic drivers impact on chromatin accessibility.
+* Fig5: Genetic drivers impact on chromatin accessibility.
   
 Use Sample_ID_Lookup_table.xlsx to find data on HTAN DCC, GDC and CDS
