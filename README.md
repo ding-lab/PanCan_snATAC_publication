@@ -21,3 +21,5 @@ This is a repo for the publication "Epigenetic Regulation During Cancer Transiti
 * Fig5: Genetic drivers impact on chromatin accessibility.
   
 Use Sample_ID_Lookup_table.xlsx to find data on HTAN DCC, GDC and CDS
+
+For cell type annotation refer to this Synapse page https://www.synapse.org/#!Synapse:syn51364714/files/
