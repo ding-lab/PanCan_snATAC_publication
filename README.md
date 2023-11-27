@@ -22,4 +22,4 @@ This is a repo for the publication "Epigenetic Regulation During Cancer Transiti
   
 Use Sample_ID_Lookup_table.xlsx to find data on HTAN DCC, GDC and CDS
 
-For cell type annotation refer to this Synapse page https://www.synapse.org/#!Synapse:syn51364714/files/
+We are working to make cell type annotation avaiable via GEO for GBM and ccRCC, and HTAN DCC for all other cancer types. Stay tuned!
