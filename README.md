@@ -20,6 +20,6 @@ This is a repo for the publication "Epigenetic Regulation During Cancer Transiti
 
 * Fig5: Genetic drivers impact on chromatin accessibility.
   
-Use Sample_ID_Lookup_table.xlsx to find data on HTAN DCC, GDC and CDS
+Use Sample_ID_Lookup_table.xlsx to find raw fastq, bams and count matrix data on HTAN DCC, GDC and CDS
 
 We are working to make cell type annotation avaiable via GEO for GBM and ccRCC, and HTAN DCC for all other cancer types. Stay tuned!
