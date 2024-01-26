@@ -1,6 +1,10 @@
 # PanCan_snATAC_publication
 
-This is a repo for the publication "Epigenetic Regulation During Cancer Transitions Across 11 Tumor Types"
+This is a repo for the publication "Terekhanova, N.V., Karpova, A., Liang, W.W., Strzalkowski, A., Chen, S., Li, Y., Southard-Smith, A.N., Iglesia, M.D., Wendl, M.C., Jayasinghe, R.G. and Liu, J., 2023. Epigenetic regulation during cancer transitions across 11 tumour types. Nature, pp.1-10."
+
+[[Link](https://www.nature.com/articles/s41586-023-06682-5)]
+
+
 
 ---
 
