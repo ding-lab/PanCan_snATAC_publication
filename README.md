@@ -29,4 +29,5 @@ Terekhanova, N.V., Karpova, A., Liang, W.W., et al. "Epigenetic regulation durin
 Use Sample_ID_Lookup_table.xlsx to find raw fastq, bams and count matrix data on HTAN DCC, GDC and CDS
 
 Cell type annotation for tumor GBM and ccRCC samples is available on GEO: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE240822 (please see supplementary files). For all other samples cell type annotation is available via HTAN DCC: https://humantumoratlas.org/ (WUSTL dataset L4 level files).
+
 Synapse project ID with SCENIC results and inferCNV results syn51364714
